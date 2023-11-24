@@ -40,4 +40,4 @@ def predict_datapoint():
         print("after Prediction")
         return render_template('home.html',results=results[0])
     
-
+#end
